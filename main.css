@@ -72,6 +72,9 @@ main {
     body {
         flex-direction: column;
     }
+    .container {
+        flex-direction: column;
+    }
     #sidebar {
         width: 100%;
         height: auto;
